@@ -1,75 +1,72 @@
 # IIPS Integrated Academic Performance & Evaluation System
 
 ### International Institute of Professional Studies (IIPS)
-**Devi Ahilya Vishwavidyalaya (DAVV), Indore, Madhya Pradesh**
+**Devi Ahilya Vishwavidyalaya (DAVV), Indore**
 
 ## About the System
 
-The IIPS Integrated Academic Performance & Evaluation System is designed to centralize student performance tracking, academic evaluation, scoring, and leaderboard management.
+The IIPS Integrated Academic Performance & Evaluation System is designed to manage student academic performance, evaluation, scoring, submissions, and leaderboard tracking.
 
-The system is connected with two existing online systems used at IIPS to support integrated academic administration and data management.
+The system is associated with two existing online systems of IIPS, supporting integrated academic and administrative record management.
 
-## Integration with Existing IIPS Online Systems
+## Connected IIPS Online Systems
 
-This system is associated with the following two online platforms:
-
-### 1. IIPS Attendance Management System
+### 1. Student Attendance Management App
 
 **Purpose:** Student Attendance Management
 
-The Attendance Management System is used for maintaining and managing student attendance records.
+This online application is used to maintain and manage student attendance records.
 
-Integration relevance:
-- Access to attendance-related academic information.
+Key functions:
+- Student attendance recording.
+- Batch-wise and semester-wise attendance management.
 - Student identification through roll numbers.
-- Support for academic record verification.
-- Reference to attendance information for institutional monitoring.
+- Attendance record monitoring.
+- Academic attendance tracking.
 
-### 2. Visiting Faculty Remuneration Management System
+### 2. Visiting Faculty Attendance & Remuneration Bill Form
 
-**Purpose:** Visiting Faculty Attendance, Work Records & Remuneration/Billing
+**Purpose:** Visiting Faculty Class Attendance and Remuneration/Bill Generation
 
-This system manages visiting faculty-related academic and administrative records.
+This online system is designed to maintain visiting faculty teaching records and facilitate remuneration claim processing.
 
-Integration relevance:
-- Visiting faculty registration and information.
-- Subject and class assignment records.
-- Class duration and attendance records.
-- Remuneration and bill generation records.
-- Reference to faculty teaching and academic activity information.
+Key functions:
+- Visiting faculty registration and profile management.
+- Subject and class assignment.
+- Daily class attendance and duration entry.
+- Teaching activity records.
+- Remuneration calculation and bill generation.
+- Faculty remuneration claim management.
 
-## Core System Features
+## Integration Overview
 
-- Student identification and roll-number mapping.
-- Year-wise student performance tracking.
-- Combined leaderboard across academic years.
-- Student scoring and evaluation management.
-- Assignment and submission tracking.
-- GitHub profile URL and username mapping.
-- Missing student data identification.
-- Performance analysis and ranking.
-- Downloadable leaderboard reports.
-- Academic record monitoring.
-
-## System Integration Overview
-
-The system works in association with the two existing IIPS platforms:
-
-| Integrated System | Primary Purpose |
+| Online System | Primary Function |
 |---|---|
-| IIPS Attendance Management System | Student attendance management |
-| Visiting Faculty Remuneration System | Faculty class records and remuneration management |
+| Student Attendance Management App | Student attendance records |
+| Visiting Faculty Attendance & Remuneration Bill Form | Visiting faculty attendance and remuneration processing |
 
-These platforms serve their respective administrative purposes, while the Integrated Academic Performance & Evaluation System provides a centralized environment for academic performance monitoring and evaluation.
+Both systems are part of the digital administrative ecosystem of IIPS and serve different institutional purposes.
+
+## Core Features of the Current System
+
+- Student roll number and name mapping.
+- Year-wise leaderboards (1st to 5th Year).
+- Combined leaderboard.
+- Student performance scoring and evaluation.
+- Assignment and submission tracking.
+- GitHub profile integration.
+- Missing data identification.
+- Performance ranking and analysis.
+- Downloadable reports in Excel, PDF, and CSV.
 
 ## Institutional Objective
 
-The primary objective is to strengthen digital academic administration at IIPS by connecting existing institutional systems and improving data accessibility, transparency, monitoring, and performance evaluation.
+To strengthen the digital academic ecosystem of IIPS by connecting student academic performance monitoring with existing institutional administrative systems, improving transparency, accessibility, and efficiency in academic management.
 
 ---
 
-**Developed for:** International Institute of Professional Studies (IIPS), DAVV, Indore.
+**Institution:** International Institute of Professional Studies (IIPS), DAVV, Indore.
 
-**System Category:** Integrated Academic Management & Performance Evaluation
+**System Type:** Integrated Academic Performance & Administrative Management.
 
-**Note:** Integration and data exchange are subject to the availability of authorized APIs, database connectivity, or other approved access mechanisms. This README describes the intended system association and does not imply that all data synchronization is already automated.
+**Integration Note:** Any automated data exchange between these systems depends on authorized API access, database connectivity, or approved integration mechanisms.
