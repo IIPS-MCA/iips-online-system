@@ -1,13 +1,18 @@
-# [IIPS Integrated Academic Performance & Evaluation System](url)
+# IIPS Integrated Academic Performance & Evaluation System
 
 ### International Institute of Professional Studies (IIPS)
-**Devi Ahilya Vishwavidyalaya (DAVV), Indore**
+**Devi Ahilya Vishwavidyalaya (DAVV), Indore, Madhya Pradesh**
+
+🌐 **Official IIPS Online Systems Portal:**  
+[https://iips-mca.github.io/iips-online-system/](https://iips-mca.github.io/iips-online-system/)
+
+---
 
 ## About the System
 
-The IIPS Integrated Academic Performance & Evaluation System is designed to manage student academic performance, evaluation, scoring, submissions, and leaderboard tracking.
+The **IIPS Integrated Academic Performance & Evaluation System** is designed to manage student academic performance, evaluation, scoring, submissions, and leaderboard tracking.
 
-The system is associated with two existing online systems of IIPS, supporting integrated academic and administrative record management.
+The system is associated with two existing online systems of IIPS, supporting digital academic administration and institutional record management.
 
 ## Connected IIPS Online Systems
 
@@ -17,7 +22,7 @@ The system is associated with two existing online systems of IIPS, supporting in
 
 This online application is used to maintain and manage student attendance records.
 
-Key functions:
+**Key Functions:**
 - Student attendance recording.
 - Batch-wise and semester-wise attendance management.
 - Student identification through roll numbers.
@@ -30,7 +35,7 @@ Key functions:
 
 This online system is designed to maintain visiting faculty teaching records and facilitate remuneration claim processing.
 
-Key functions:
+**Key Functions:**
 - Visiting faculty registration and profile management.
 - Subject and class assignment.
 - Daily class attendance and duration entry.
@@ -47,26 +52,34 @@ Key functions:
 
 Both systems are part of the digital administrative ecosystem of IIPS and serve different institutional purposes.
 
-## Core Features of the Current System
+## Core Features
 
+### Student Management
 - Student roll number and name mapping.
-- Year-wise leaderboards (1st to 5th Year).
-- Combined leaderboard.
+- Student profile management.
+- Academic year-wise student identification.
+- GitHub profile URL and username mapping.
+- Missing student data identification.
+
+### Performance Evaluation
 - Student performance scoring and evaluation.
 - Assignment and submission tracking.
-- GitHub profile integration.
-- Missing data identification.
-- Performance ranking and analysis.
-- Downloadable reports in Excel, PDF, and CSV.
+- Academic performance monitoring.
+- Evaluation history and records.
+- Performance analysis and ranking.
+
 
 ## Institutional Objective
 
-To strengthen the digital academic ecosystem of IIPS by connecting student academic performance monitoring with existing institutional administrative systems, improving transparency, accessibility, and efficiency in academic management.
+The primary objective is to strengthen the digital academic ecosystem of IIPS by connecting existing institutional online systems and improving transparency, accessibility, monitoring, and efficiency in academic administration and student performance evaluation.
+
+## Institution Details
+
+**Institution:** International Institute of Professional Studies (IIPS)  
+**University:** Devi Ahilya Vishwavidyalaya (DAVV)  
+**Location:** Indore, Madhya Pradesh, India  
+**System Category:** Integrated Academic Performance & Evaluation System
 
 ---
 
-**Institution:** International Institute of Professional Studies (IIPS), DAVV, Indore.
-
-**System Type:** Integrated Academic Performance & Administrative Management.
-
-**Integration Note:** Any automated data exchange between these systems depends on authorized API access, database connectivity, or approved integration mechanisms.
+**IIPS – Digital Academic Administration & Performance Monitoring**
