@@ -57,14 +57,6 @@ Both systems are part of the digital administrative ecosystem of IIPS and serve 
 ### Student Management
 - Student Online Attendance
 
-### Performance Evaluation
-- Student performance scoring and evaluation.
-- Assignment and submission tracking.
-- Academic performance monitoring.
-- Evaluation history and records.
-- Performance analysis and ranking.
-
-
 ## Institutional Objective
 
 The primary objective is to strengthen the digital academic ecosystem of IIPS by connecting existing institutional online systems and improving transparency, accessibility, monitoring, and efficiency in academic administration and student performance evaluation.
