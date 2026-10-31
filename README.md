@@ -10,7 +10,7 @@
 
 ## About the System
 
-The **IIPS Integrated Academic Performance & Evaluation System** is designed to manage student academic performance, evaluation, scoring, submissions, and leaderboard tracking.
+The **IIPS Integrated Academic Performance & Evaluation System** is designed to manage student attendance.
 
 The system is associated with two existing online systems of IIPS, supporting digital academic administration and institutional record management.
 
@@ -55,11 +55,7 @@ Both systems are part of the digital administrative ecosystem of IIPS and serve 
 ## Core Features
 
 ### Student Management
-- Student roll number and name mapping.
-- Student profile management.
-- Academic year-wise student identification.
-- GitHub profile URL and username mapping.
-- Missing student data identification.
+- Student Online Attendance
 
 ### Performance Evaluation
 - Student performance scoring and evaluation.
